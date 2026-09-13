@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+kb-cli
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local config
+.kb-cli.yaml
